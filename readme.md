@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to build a machine learning model that detects duplicate questions on Quora. The goal is to identify pairs of questions that have the same intent but are phrased differently. This project utilizes Natural Language Processing (NLP) techniques, feature engineering, and machine learning algorithms to achieve high accuracy in predicting duplicate questions.
+This project aims to build a machine learning model that detects duplicate questions on Quora. The goal is to identify pairs of questions that have the same intent but are phrased differently. This project utilizes feature engineering, and machine learning algorithms to achieve high accuracy in predicting duplicate questions.
 
 ## Features
 
