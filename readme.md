@@ -23,4 +23,4 @@ This project aims to build a machine learning model that detects duplicate quest
 
 - Achieved **54% accuracy** using Naive Bayes as the baseline model.
 - Improved to **74% accuracy** with Random Forest.
-- Further enhanc
+- Furtheer enhance to **99% accuracy**.
